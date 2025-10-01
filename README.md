@@ -10,3 +10,5 @@ Contained in the tar file are:
 - Root file containing extracted cross section data for a variety of targets, neutrino flavors as a function of energy, ranging from ~0.1-100 GeV (`xsec_graphs.root`)
 
 The script in this repo will read from `xsec_graphs.root`.
+
+Please consult the root file for all targets, flavors, interaction type.
